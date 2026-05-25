@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202605252246090DRO3U</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260525224609HCKJUU</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SDA: El mundo marino en el Parque Natural de Cabo de Gata</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>REA para el alumnado de Educación INFANTIL :El mundo marino en el Parque Natural de Cabo de Gata</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779737245391</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mplc6buu-c6k0f2ox8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>INTRODUCCIÓN / Guía didáctica</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INTRODUCCIÓN / Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>INTRODUCCIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>INTRODUCCIÓN / Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplc6buu-c6k0f2ox8</odePageId>
+      <odeBlockId>block-1779717780628-16d8kn2kw</odeBlockId>
+      <blockName>SDA: El mundo marino en el Parque Natural de Cabo de Gata</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplc6buu-c6k0f2ox8</odePageId>
+          <odeBlockId>block-1779717780628-16d8kn2kw</odeBlockId>
+          <odeIdeviceId>idevice-1779717780627-cgm3rgea6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong title="">Situación de Aprendizaje para el Segundo Ciclo de Educación Infantil. Descubriendo el mundo marino</strong></p>
+<p style="text-align: center;"><strong title=""><a href="https://canva.link/ppwlqvai31pglvp">Presentación sda Fondo Marino</a></strong></p>
+<p></p>
+<p>Explorar el mundo marino en la etapa de Educación Infantil es una de las aventuras pedagógicas más completas y motivadoras que existen. El mar no es solo un ecosistema; es un escenario mágico que conecta directamente con la curiosidad innata de los niños y niñas.</p>
+<p>Trabajar este tema permite abordar las tres áreas del currículo de Infantil de forma integrada:</p>
+<ul>
+<li>Crecimiento en Armonía: Fomenta la autonomía a través de experimentos con agua (flotabilidad) y el cuidado de los seres vivos (responsabilidad si se se cuidan seres vivos).<br /> </li>
+<li>Descubrimiento y Exploración del Entorno: Es el Área principal. Permite clasificar especies, entender el ciclo del agua y reconocer la importancia de los recursos naturales.<br /> </li>
+<li>Comunicación y Representación: Ampliación de vocabulario ,expresión artística mediante diferentes técnicas plásticas y uso de la lógica-matemática (contar peces, comparar tamaños).</li>
+</ul>
+<p>Mediante metodologías activas y vivenciales, se facilitará el descubrimiento del mundo marino y la vida acuática, asegurando que los conceptos se ajusten al nivel madurativo del grupo. Esta propuesta pedagógica incluye una aproximación a la competencia digital a través de nuestro rincón digital y las actividades de iniciación a la robótica educativa. Utilizando los Bee-Bots, el alumnado desarrollará estrategias de resolución de problemas y pensamiento lógico mientras simula travesías por el fondo del mar.</p>
+<p>En resumen, poner en marcha esta SDA sobre el mundo marino supone una oportunidad para que los alumnos aprendan de forma significativa, porque estamos aprovechando algo que ya les fascina de forma natural.</p>
+<p>Por otro lado, al unir la curiosidad por el mar con el uso de herramientas tecnológicas sencillas, estamos preparando a los alumnos para el futuro. No solo aprenden biodiversidad; aprenden a pensar, a trabajar en equipo y a usar la tecnología de forma inteligente y responsable.</p>
+<p>La Situación de Aprendizaje (a partir de ahora SA) "El Mundo Marino en el Parque Natural de Cabo de Gata " va dirigida a un grupo de 25 alumnos/as del segundo  nivel del segundo ciclo de educación infantil (4 años).</p>
+<p>El reto de esta SDA consiste en sensibilizar a los niños y niñas de 5 años sobre la importancia de los animales marinos, sus hábitats y la necesidad de su conservación, y el producto final será una Enciclopedia digital de la fauna marina de la zona de Cabo de Gata creado por el alumnado con Genially.</p>
+<p> Nuestra propuesta se desarrolla promoviendo una metodología activa , favoreciendo la interacción, la cooperación y la expresión grupal entre los participantes. A través de la observación, el juego y las dinámicas grupales, se fomenta el aprendizaje y la reflexión acerca de la biodiversidad marina y su preservación, promoviendo actitudes de respeto hacia el medio ambiente.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779717780627-cgm3rgea6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong title=\"\">Situación de Aprendizaje para el Segundo Ciclo de Educación Infantil. Descubriendo el mundo marino</strong></p>\n<p style=\"text-align: center;\"><strong title=\"\"><a href=\"https://canva.link/ppwlqvai31pglvp\">Presentación sda Fondo Marino</a></strong></p>\n<p></p>\n<p>Explorar el mundo marino en la etapa de Educación Infantil es una de las aventuras pedagógicas más completas y motivadoras que existen. El mar no es solo un ecosistema; es un escenario mágico que conecta directamente con la curiosidad innata de los niños y niñas.</p>\n<p>Trabajar este tema permite abordar las tres áreas del currículo de Infantil de forma integrada:</p>\n<ul>\n<li>Crecimiento en Armonía: Fomenta la autonomía a través de experimentos con agua (flotabilidad) y el cuidado de los seres vivos (responsabilidad si se se cuidan seres vivos).<br /> </li>\n<li>Descubrimiento y Exploración del Entorno: Es el Área principal. Permite clasificar especies, entender el ciclo del agua y reconocer la importancia de los recursos naturales.<br /> </li>\n<li>Comunicación y Representación: Ampliación de vocabulario ,expresión artística mediante diferentes técnicas plásticas y uso de la lógica-matemática (contar peces, comparar tamaños).</li>\n</ul>\n<p>Mediante metodologías activas y vivenciales, se facilitará el descubrimiento del mundo marino y la vida acuática, asegurando que los conceptos se ajusten al nivel madurativo del grupo. Esta propuesta pedagógica incluye una aproximación a la competencia digital a través de nuestro rincón digital y las actividades de iniciación a la robótica educativa. Utilizando los Bee-Bots, el alumnado desarrollará estrategias de resolución de problemas y pensamiento lógico mientras simula travesías por el fondo del mar.</p>\n<p>En resumen, poner en marcha esta SDA sobre el mundo marino supone una oportunidad para que los alumnos aprendan de forma significativa, porque estamos aprovechando algo que ya les fascina de forma natural.</p>\n<p>Por otro lado, al unir la curiosidad por el mar con el uso de herramientas tecnológicas sencillas, estamos preparando a los alumnos para el futuro. No solo aprenden biodiversidad; aprenden a pensar, a trabajar en equipo y a usar la tecnología de forma inteligente y responsable.</p>\n<p>La Situación de Aprendizaje (a partir de ahora SA) \"El Mundo Marino en el Parque Natural de Cabo de Gata \" va dirigida a un grupo de 25 alumnos/as del segundo  nivel del segundo ciclo de educación infantil (4 años).</p>\n<p>El reto de esta SDA consiste en sensibilizar a los niños y niñas de 5 años sobre la importancia de los animales marinos, sus hábitats y la necesidad de su conservación, y el producto final será una Enciclopedia digital de la fauna marina de la zona de Cabo de Gata creado por el alumnado con Genially.</p>\n<p> Nuestra propuesta se desarrolla promoviendo una metodología activa , favoreciendo la interacción, la cooperación y la expresión grupal entre los participantes. A través de la observación, el juego y las dinámicas grupales, se fomenta el aprendizaje y la reflexión acerca de la biodiversidad marina y su preservación, promoviendo actitudes de respeto hacia el medio ambiente.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplc6buv-41tp8ms74</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Datos Identificativos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Datos Identificativos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Datos Identificativos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplc6buv-41tp8ms74</odePageId>
+      <odeBlockId>block-1779718378434-htmckm96j</odeBlockId>
+      <blockName>SDA: El mundo marino en el Parque Natural de Cabo de Gata</blockName>
+      <iconName>suitcase</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplc6buv-41tp8ms74</odePageId>
+          <odeBlockId>block-1779718378434-htmckm96j</odeBlockId>
+          <odeIdeviceId>idevice-1779718378433-7ev79ajez</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A lo largo del siguiente documento descubrirás la SdA : El mundo marino en el Parque Natural de Cabo de Gata. Enmarcada de una manera muy concreta en el mar Mediterráneo, en la costa de Almería .  ¡Comenzamos!</p>
+<p>¿QUÉ VAMOS A TRABAJAR EN ESTA SDA?</p>
+<ul>
+<li>Temática SDA : El mar y el mundo marino  en el Parque Natural de Cabo de Gata  .</li>
+<li>Ecología: La importancia del respeto y cuidado del Medio Ambiente</li>
+<li>Competencia Matemática.</li>
+<li>Competencia lingüística.</li>
+<li>Competencia artística.</li>
+<li>Competencia personal y social.</li>
+<li>Pensamiento computacional</li>
+<li>Orientación espacial</li>
+<li>Robótica</li>
+<li>Trabajo cooperativo.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779718378433-7ev79ajez","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A lo largo del siguiente documento descubrirás la SdA : El mundo marino en el Parque Natural de Cabo de Gata. Enmarcada de una manera muy concreta en el mar Mediterráneo, en la costa de Almería .  ¡Comenzamos!</p>\n<p>¿QUÉ VAMOS A TRABAJAR EN ESTA SDA?</p>\n<ul>\n<li>Temática SDA : El mar y el mundo marino  en el Parque Natural de Cabo de Gata  .</li>\n<li>Ecología: La importancia del respeto y cuidado del Medio Ambiente</li>\n<li>Competencia Matemática.</li>\n<li>Competencia lingüística.</li>\n<li>Competencia artística.</li>\n<li>Competencia personal y social.</li>\n<li>Pensamiento computacional</li>\n<li>Orientación espacial</li>\n<li>Robótica</li>\n<li>Trabajo cooperativo.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplc6buw-i3qmgcc6h</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Metodología </pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodología </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metodología </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplc6buw-i3qmgcc6h</odePageId>
+      <odeBlockId>block-1779723015869-tuzy0o2e9</odeBlockId>
+      <blockName>Situaciones de Aprendizaje en Educación Infantil</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplc6buw-i3qmgcc6h</odePageId>
+          <odeBlockId>block-1779723015869-tuzy0o2e9</odeBlockId>
+          <odeIdeviceId>idevice-1779723015868-lnkmyepju</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La metodología en las situaciones de aprendizaje para la etapa de Educación Infantil  debe ser, ante todo, un reflejo de cómo aprenden los niños a estas edades: de forma global, activa, vivencial y a través del juego.</p>
+<p>Las situaciones de aprendizaje se plantean  como escenarios retadores y significativos que conectan con sus intereses y les invitan a explorar.</p>
+<p>Los principios metodológicos que guían nuestra propuesta son los siguientes:</p>
+<p>1. El Juego como Eje Vertebrador</p>
+<p>El juego (libre, guiado, simbólico o de reglas) es la herramienta cognitiva más potente en infantil. A través del juego, los niños asimilan la realidad, ensayan roles, gestionan frustraciones y desarrollan el lenguaje. Cualquier situación de aprendizaje potente debe estructurarse en torno a una dinámica lúdica.</p>
+<p>2. Principio de Globalización</p>
+<p>Apostamos por una metodología globalizadora porque los niños de 4 años aprenden descubriendo el mundo como un "todo", no dividido en asignaturas. A través de esta SdA, creamos experiencias con sentido donde el juego, la curiosidad y la experimentación son los motores principales. Así, mientras investigan un tema que les motiva, desarrollan al mismo tiempo el lenguaje, el pensamiento matemático, la creatividad y su autonomía de forma natural y unificada.<br /><br /></p>
+<p>3. Aprendizaje Vivencial y Significativo</p>
+<p><br />El Aprendizaje Vivencial y Significativo consiste en aprender a través de la propia experiencia y la emoción. A los 4 años, los niños y niñas necesitan tocar, mover el cuerpo, experimentar y jugar (lo vivencial) para poder comprender el mundo. Al conectar estas vivencias con lo que ellos ya conocen y les interesa, el aprendizaje cobra sentido para ellos (se vuelve significativo), logrando que lo que descubren en el aula no se olvide y les sirva para su día a día.<br /></p>
+<p>4. Organización por Rincones </p>
+<p>Organizamos el aula por rincones porque es la mejor manera de respetar los diferentes ritmos, intereses y necesidades de los niños y niñas de 4 años. Al dividir el espacio en zonas específicas de juego y experimentación —como las construcciones, las letras, el juego simbólico o la creatividad—, les permitimos explorar y aprender en pequeños grupos de forma autónoma. De este modo, el aula se convierte en un escenario dinámico donde el alumnado es el verdadero protagonista, eligiendo, investigando y construyendo su propio aprendizaje a través de la acción directa y el juego compartidos.<br /><br /></p>
+<p>5. El Clima de Seguridad y Afecto</p>
+<p>Ningún aprendizaje significativo ocurre si el niño no se siente seguro, querido y respetado. La metodología debe cuidar las rutinas, la previsibilidad del espacio y el refuerzo positivo, validando el error como parte natural del proceso de descubrimiento.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779723015868-lnkmyepju","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La metodología en las situaciones de aprendizaje para la etapa de Educación Infantil  debe ser, ante todo, un reflejo de cómo aprenden los niños a estas edades: de forma global, activa, vivencial y a través del juego.</p>\n<p>Las situaciones de aprendizaje se plantean  como escenarios retadores y significativos que conectan con sus intereses y les invitan a explorar.</p>\n<p>Los principios metodológicos que guían nuestra propuesta son los siguientes:</p>\n<p>1. El Juego como Eje Vertebrador</p>\n<p>El juego (libre, guiado, simbólico o de reglas) es la herramienta cognitiva más potente en infantil. A través del juego, los niños asimilan la realidad, ensayan roles, gestionan frustraciones y desarrollan el lenguaje. Cualquier situación de aprendizaje potente debe estructurarse en torno a una dinámica lúdica.</p>\n<p>2. Principio de Globalización</p>\n<p>Apostamos por una metodología globalizadora porque los niños de 4 años aprenden descubriendo el mundo como un \"todo\", no dividido en asignaturas. A través de esta SdA, creamos experiencias con sentido donde el juego, la curiosidad y la experimentación son los motores principales. Así, mientras investigan un tema que les motiva, desarrollan al mismo tiempo el lenguaje, el pensamiento matemático, la creatividad y su autonomía de forma natural y unificada.<br /><br /></p>\n<p>3. Aprendizaje Vivencial y Significativo</p>\n<p><br />El Aprendizaje Vivencial y Significativo consiste en aprender a través de la propia experiencia y la emoción. A los 4 años, los niños y niñas necesitan tocar, mover el cuerpo, experimentar y jugar (lo vivencial) para poder comprender el mundo. Al conectar estas vivencias con lo que ellos ya conocen y les interesa, el aprendizaje cobra sentido para ellos (se vuelve significativo), logrando que lo que descubren en el aula no se olvide y les sirva para su día a día.<br /></p>\n<p>4. Organización por Rincones </p>\n<p>Organizamos el aula por rincones porque es la mejor manera de respetar los diferentes ritmos, intereses y necesidades de los niños y niñas de 4 años. Al dividir el espacio en zonas específicas de juego y experimentación —como las construcciones, las letras, el juego simbólico o la creatividad—, les permitimos explorar y aprender en pequeños grupos de forma autónoma. De este modo, el aula se convierte en un escenario dinámico donde el alumnado es el verdadero protagonista, eligiendo, investigando y construyendo su propio aprendizaje a través de la acción directa y el juego compartidos.<br /><br /></p>\n<p>5. El Clima de Seguridad y Afecto</p>\n<p>Ningún aprendizaje significativo ocurre si el niño no se siente seguro, querido y respetado. La metodología debe cuidar las rutinas, la previsibilidad del espacio y el refuerzo positivo, validando el error como parte natural del proceso de descubrimiento.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779723005108-b08qu291c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Temporalización</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Temporalización</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779723005108-b08qu291c</odePageId>
+      <odeBlockId>block-1779727242756-y3d8eqmwa</odeBlockId>
+      <blockName>Organización de las tareas</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779723005108-b08qu291c</odePageId>
+          <odeBlockId>block-1779727242756-y3d8eqmwa</odeBlockId>
+          <odeIdeviceId>idevice-1779727242755-8zibjzcgg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En cuanto a la temporalización, esta Situación de Aprendizaje se ha planificado para desarrollarse a lo largo de 4  semanas, estimando un total de 12  sesiones. No obstante, en la etapa de Educación Infantil, la distribución del tiempo debe entenderse desde una perspectiva globalizadora y flexible, alejada de cronogramas rígidos. Por ello, la duración de las tareas se ajustará de manera continua al ritmo orgánico del aula, priorizando el interés sostenido del alumnado, el respeto por sus rutinas diarias y los tiempos de juego e investigación que surjan de forma espontánea.</p>
+<p><img src="{{context_path}}/content/resources/TEMPORALIZACIÓN.pdf" alt="Temporalización" /></p>
+<p><a href="https://canva.link/nydhwdxsdy1sxzd" title="">Mapa TEMPORALIZACIÓN</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779727242755-8zibjzcgg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En cuanto a la temporalización, esta Situación de Aprendizaje se ha planificado para desarrollarse a lo largo de 4  semanas, estimando un total de 12  sesiones. No obstante, en la etapa de Educación Infantil, la distribución del tiempo debe entenderse desde una perspectiva globalizadora y flexible, alejada de cronogramas rígidos. Por ello, la duración de las tareas se ajustará de manera continua al ritmo orgánico del aula, priorizando el interés sostenido del alumnado, el respeto por sus rutinas diarias y los tiempos de juego e investigación que surjan de forma espontánea.</p>\n<p><img src=\"{{context_path}}/content/resources/TEMPORALIZACIÓN.pdf\" alt=\"Temporalización\" /></p>\n<p><a href=\"https://canva.link/nydhwdxsdy1sxzd\" title=\"\">Mapa TEMPORALIZACIÓN</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779724724101-s3lrqqrmv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tareas propuestas en nuestra Sda</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tareas propuestas en nuestra Sda</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779724724101-s3lrqqrmv</odePageId>
+      <odeBlockId>block-1779724820979-qmoghcf2s</odeBlockId>
+      <blockName>Tareas</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779724724101-s3lrqqrmv</odePageId>
+          <odeBlockId>block-1779724820979-qmoghcf2s</odeBlockId>
+          <odeIdeviceId>idevice-1779724820978-1nenynr3s</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Nuestra propuesta didáctica se organiza a través de 7 grandes tareas, concebidas como hilos conductores que toman forma gracias a un abanico diverso de actividades prácticas. A continuación, desarrollamos de forma esquemática  la totalidad de estas tareas, junto a una pequeña pincelada de las actividades que desarrollaremos en cada una de ellas.</p>
+<p>Este documento no pretende ser un guion cerrado, sino una fuente de inspiración y una guía viva. Partiendo de esta base, el día a día en el aula de 4 años nos invitará a incorporar nuevas experiencias espontáneas, adaptándonos siempre al ritmo, el juego y los descubrimientos diarios de los niños y niñas.</p>
+<p><br /></p>
+<ul>
+<li><strong> TAREA 1 : Actividad de presentación/Motivación: EL TESORO </strong><strong></strong></li>
+</ul>
+<p><strong>A)Encontramos en el aula un mapa del tesoro:</strong></p>
+<p>Encontramos en el aula un cofre con un pergamino que nos cuenta la historia del Pirata de Cabo de Gata y su barco hundido</p>
+<p>AGRUPAMIENTO: GRAN GRUPO ,HERRAMIENTA: CANVA, Nª DE SESIONES: 1 .</p>
+<p><strong>B) Visionado del video del barco hundido en Cabo de gata: </strong></p>
+<p>El barco hundido más famoso y emblemático en el Cabo de Gata (Almería) es el Vapor Arna, conocido popularmente como "El Vapor de Cabo de Gata.</p>
+<p>AGRUPAMIENTO: GRAN GRUPO ,HERRAMIENTA: CANVA, Nª DE SESIONES: 1 . <a href="https://youtu.be/X-shXQA7A2Y?si=Xip3sps-02lDJUdJ" title="">https://youtu.be/X-shXQA7A2Y?si=Xip3sps-02lDJUdJ</a></p>
+<p><br /></p>
+<ul>
+<li><strong>TAREA 2 : Presentamos las pistas que tenemos que resolver.</strong></li>
+</ul>
+<p>Dentro del cofre encontramos las pistas y pruebas por resolver.</p>
+<p>AGRUPAMIENTO: GRAN GRUPO ,HERRAMIENTA: CANVA, Nª DE SESIONES: 1 .</p>
+<p><br /></p>
+<ul>
+<li><strong>TAREA 3 : Visita al acuario </strong></li>
+</ul>
+<p>Realizamos una visita al acuario del Roquetas de mar, dónde hay específicamente una zona dedicada a las especies de cabo de gata.</p>
+<p>AGRUPAMIENTO: GRAN GRUPO ,HERRAMIENTA: CANVA, Nº DE SESIONES: 1 .</p>
+<p><strong>A)Actividades previas:</strong> Elaboración de plantilla para recogida de información.</p>
+<p><strong>B)Compartimos la información: </strong>Puesta en común de todas la información recogida y lo aprendido durante la visita.</p>
+<p>AGRUPAMIENTO: GRAN GRUPO ,HERRAMIENTA: GOOGLE DOCUMENTOS , Nº DE SESIONES: 1 .</p>
+<p><br /></p>
+<ul>
+<li><strong>TAREA 4: Ampliamos información.</strong></li>
+</ul>
+<p>Búsqueda de información y características de todas las especies vistas en el acuario sobre el fondo marino en cabo de gata.</p>
+<p>AGRUPAMIENTO: GRAN GRUPO ,HERRAMIENTA: GOOGLE DOCUMENTOS , Nº DE SESIONES: 1 .</p>
+<p><br /></p>
+<ul>
+<li><strong>TAREA 5: Viaje submarino  Bee Bot </strong><strong></strong><strong></strong>
+<p><br /></p>
+<p>A)BEE BOT EN NUESTRO RINCÓN CIBER RATONCITOS: Ambientando la actividad en el mundo submarino, emplearemos las tarjetas de robótica y el panel para realizar distintos itinerarios.</p>
+<p>AGRUPAMIENTO: PEQUEÑO GRUPO ,HERRAMIENTA: BEE BOT, TARJETAS Y PANELES , Nº DE SESIONES: 2 .</p>
+<p><br /></p>
+ </li>
+<li>
+<p><strong>TAREA 6  : Elaboraremos en Canva una presentación con las especies más significativas de cabo de gata y sus características </strong></p>
+</li>
+</ul>
+<p>A) Búsqueda de información : Elaboración de plantilla para recogida de información.</p>
+<p>B)Realización de las diapositivas en canva: Puesta en común de todas la información recogida y elaboración de la presentación.</p>
+<p>AGRUPAMIENTO: PEQUEÑO GRUPO ,HERRAMIENTA: GOOGLE DOCUMENTOS Y CANVA  , Nº DE SESIONES: 3 .</p>
+<p><br /></p>
+<ul>
+<li><strong>TAREA 7 :Exposición de nuestra enciclopedia digital.</strong></li>
+</ul>
+<p>Exposición a la clase por pequeños grupos del trabajo realizado y las especies encontradas.</p>
+<p>AGRUPAMIENTO: PEQUEÑO GRUPO ,HERRAMIENTA: GOOGLE DOCUMENTOS Y CANVA  , Nº DE SESIONES: 3 .</p>
+<p><a href="https://view.genially.com/6a149290fbec1b7d376fc111" title="">https://view.genially.com/6a149290fbec1b7d376fc111</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779724820978-1nenynr3s","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Nuestra propuesta didáctica se organiza a través de 7 grandes tareas, concebidas como hilos conductores que toman forma gracias a un abanico diverso de actividades prácticas. A continuación, desarrollamos de forma esquemática  la totalidad de estas tareas, junto a una pequeña pincelada de las actividades que desarrollaremos en cada una de ellas.</p>\n<p>Este documento no pretende ser un guion cerrado, sino una fuente de inspiración y una guía viva. Partiendo de esta base, el día a día en el aula de 4 años nos invitará a incorporar nuevas experiencias espontáneas, adaptándonos siempre al ritmo, el juego y los descubrimientos diarios de los niños y niñas.</p>\n<p><br /></p>\n<ul>\n<li><strong> TAREA 1 : Actividad de presentación/Motivación: EL TESORO </strong><strong></strong></li>\n</ul>\n<p><strong>A)Encontramos en el aula un mapa del tesoro:</strong></p>\n<p>Encontramos en el aula un cofre con un pergamino que nos cuenta la historia del Pirata de Cabo de Gata y su barco hundido</p>\n<p>AGRUPAMIENTO: GRAN GRUPO ,HERRAMIENTA: CANVA, Nª DE SESIONES: 1 .</p>\n<p><strong>B) Visionado del video del barco hundido en Cabo de gata: </strong></p>\n<p>El barco hundido más famoso y emblemático en el Cabo de Gata (Almería) es el Vapor Arna, conocido popularmente como \"El Vapor de Cabo de Gata.</p>\n<p>AGRUPAMIENTO: GRAN GRUPO ,HERRAMIENTA: CANVA, Nª DE SESIONES: 1 . <a href=\"https://youtu.be/X-shXQA7A2Y?si=Xip3sps-02lDJUdJ\" title=\"\">https://youtu.be/X-shXQA7A2Y?si=Xip3sps-02lDJUdJ</a></p>\n<p><br /></p>\n<ul>\n<li><strong>TAREA 2 : Presentamos las pistas que tenemos que resolver.</strong></li>\n</ul>\n<p>Dentro del cofre encontramos las pistas y pruebas por resolver.</p>\n<p>AGRUPAMIENTO: GRAN GRUPO ,HERRAMIENTA: CANVA, Nª DE SESIONES: 1 .</p>\n<p><br /></p>\n<ul>\n<li><strong>TAREA 3 : Visita al acuario </strong></li>\n</ul>\n<p>Realizamos una visita al acuario del Roquetas de mar, dónde hay específicamente una zona dedicada a las especies de cabo de gata.</p>\n<p>AGRUPAMIENTO: GRAN GRUPO ,HERRAMIENTA: CANVA, Nº DE SESIONES: 1 .</p>\n<p><strong>A)Actividades previas:</strong> Elaboración de plantilla para recogida de información.</p>\n<p><strong>B)Compartimos la información: </strong>Puesta en común de todas la información recogida y lo aprendido durante la visita.</p>\n<p>AGRUPAMIENTO: GRAN GRUPO ,HERRAMIENTA: GOOGLE DOCUMENTOS , Nº DE SESIONES: 1 .</p>\n<p><br /></p>\n<ul>\n<li><strong>TAREA 4: Ampliamos información.</strong></li>\n</ul>\n<p>Búsqueda de información y características de todas las especies vistas en el acuario sobre el fondo marino en cabo de gata.</p>\n<p>AGRUPAMIENTO: GRAN GRUPO ,HERRAMIENTA: GOOGLE DOCUMENTOS , Nº DE SESIONES: 1 .</p>\n<p><br /></p>\n<ul>\n<li><strong>TAREA 5: Viaje submarino  Bee Bot </strong><strong></strong><strong></strong>\n<p><br /></p>\n<p>A)BEE BOT EN NUESTRO RINCÓN CIBER RATONCITOS: Ambientando la actividad en el mundo submarino, emplearemos las tarjetas de robótica y el panel para realizar distintos itinerarios.</p>\n<p>AGRUPAMIENTO: PEQUEÑO GRUPO ,HERRAMIENTA: BEE BOT, TARJETAS Y PANELES , Nº DE SESIONES: 2 .</p>\n<p><br /></p>\n </li>\n<li>\n<p><strong>TAREA 6  : Elaboraremos en Canva una presentación con las especies más significativas de cabo de gata y sus características </strong></p>\n</li>\n</ul>\n<p>A) Búsqueda de información : Elaboración de plantilla para recogida de información.</p>\n<p>B)Realización de las diapositivas en canva: Puesta en común de todas la información recogida y elaboración de la presentación.</p>\n<p>AGRUPAMIENTO: PEQUEÑO GRUPO ,HERRAMIENTA: GOOGLE DOCUMENTOS Y CANVA  , Nº DE SESIONES: 3 .</p>\n<p><br /></p>\n<ul>\n<li><strong>TAREA 7 :Exposición de nuestra enciclopedia digital.</strong></li>\n</ul>\n<p>Exposición a la clase por pequeños grupos del trabajo realizado y las especies encontradas.</p>\n<p>AGRUPAMIENTO: PEQUEÑO GRUPO ,HERRAMIENTA: GOOGLE DOCUMENTOS Y CANVA  , Nº DE SESIONES: 3 .</p>\n<p><a href=\"https://view.genially.com/6a149290fbec1b7d376fc111\" title=\"\">https://view.genially.com/6a149290fbec1b7d376fc111</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplc6buw-ocvb7kf23</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Conexión con los elementos curriculares: OBJETIVOS</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Conexión con los elementos curriculares: OBJETIVOS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Conexión con los elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Conexión con los elementos curriculares: OBJETIVOS</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplc6buw-ocvb7kf23</odePageId>
+      <odeBlockId>block-1779721702562-it9iysbhz</odeBlockId>
+      <blockName>OBJETIVOS GENERALES</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplc6buw-ocvb7kf23</odePageId>
+          <odeBlockId>block-1779721702562-it9iysbhz</odeBlockId>
+          <odeIdeviceId>idevice-1779721702560-m8sir1lac</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>1. Despertar la curiosidad por el medio marino: Observar y explorar de forma activa los animales y plantas que habitan en el fondo del mar de Cabo de Gata (peces, pulpos, estrellas de mar, posidonia), mostrando interés por descubrir sus características.</p>
+<p><br />2. Conocer el hábitat de la Posidonia Oceánica: Identificar las praderas de posidonia como el "bosque del mar" de Cabo de Gata, reconociendo de manera sencilla que es el hogar y refugio de muchos animales marinos.</p>
+<p><br />3. Desarrollar hábitos de cuidado y respeto ambiental: Comprender la importancia de mantener limpias las playas y el agua del mar para proteger la vida marina, evitando tirar plásticos o basuras.</p>
+<p><br /></p>
+<p><br /></p>
+<p>4. Ampliar el vocabulario y la expresión oral: Adquirir y utilizar palabras nuevas relacionadas con el fondo del mar (arrecife, posidonia, fondo arenoso, fauna marina) a través de asambleas, cuentos y descripciones.</p>
+<p><br />5. Potenciar el pensamiento lógico-matemático a través del entorno: Clasificar, contar y comparar diferentes elementos marinos (conchas, piedras, siluetas de peces) según su tamaño, forma, color o cantidad.</p>
+<p><br />6. Experimentar con las texturas y elementos de la costa: Desarrollar la motricidad fina y la estimulación sensorial manipulando de forma creativa arena, agua salada, conchas y diferentes materiales plásticos en los rincones de aula.</p>
+<p><br />7. Fomentar la expresión artística y la creatividad: Expresar sensaciones e ideas sobre el fondo del mar mediante plásticas creativas (pintura, modelado, murales del océano) y el uso de la música y el movimiento corporal.</p>
+<p><br />8. Promover el trabajo en equipo y el juego simbólico: Participar activamente en los juegos por rincones y actividades grupales, asumiendo roles sencillos (como científicos marinos, buceadores o pescadores respetuosos) y compartiendo el material con los compañeros.</p>
+<p>9. Iniciarse en el uso de distintos dispositivos y herramientas digitales.</p>
+<p>10. Cumplir  correctamente con todos los acuerdos establecidos para el buen uso de los dispositivos digitales en el aula<br /> Mostrando  un uso responsable y adecuado de los dispositivos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779721702560-m8sir1lac","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>1. Despertar la curiosidad por el medio marino: Observar y explorar de forma activa los animales y plantas que habitan en el fondo del mar de Cabo de Gata (peces, pulpos, estrellas de mar, posidonia), mostrando interés por descubrir sus características.</p>\n<p><br />2. Conocer el hábitat de la Posidonia Oceánica: Identificar las praderas de posidonia como el \"bosque del mar\" de Cabo de Gata, reconociendo de manera sencilla que es el hogar y refugio de muchos animales marinos.</p>\n<p><br />3. Desarrollar hábitos de cuidado y respeto ambiental: Comprender la importancia de mantener limpias las playas y el agua del mar para proteger la vida marina, evitando tirar plásticos o basuras.</p>\n<p><br /></p>\n<p><br /></p>\n<p>4. Ampliar el vocabulario y la expresión oral: Adquirir y utilizar palabras nuevas relacionadas con el fondo del mar (arrecife, posidonia, fondo arenoso, fauna marina) a través de asambleas, cuentos y descripciones.</p>\n<p><br />5. Potenciar el pensamiento lógico-matemático a través del entorno: Clasificar, contar y comparar diferentes elementos marinos (conchas, piedras, siluetas de peces) según su tamaño, forma, color o cantidad.</p>\n<p><br />6. Experimentar con las texturas y elementos de la costa: Desarrollar la motricidad fina y la estimulación sensorial manipulando de forma creativa arena, agua salada, conchas y diferentes materiales plásticos en los rincones de aula.</p>\n<p><br />7. Fomentar la expresión artística y la creatividad: Expresar sensaciones e ideas sobre el fondo del mar mediante plásticas creativas (pintura, modelado, murales del océano) y el uso de la música y el movimiento corporal.</p>\n<p><br />8. Promover el trabajo en equipo y el juego simbólico: Participar activamente en los juegos por rincones y actividades grupales, asumiendo roles sencillos (como científicos marinos, buceadores o pescadores respetuosos) y compartiendo el material con los compañeros.</p>\n<p>9. Iniciarse en el uso de distintos dispositivos y herramientas digitales.</p>\n<p>10. Cumplir  correctamente con todos los acuerdos establecidos para el buen uso de los dispositivos digitales en el aula<br /> Mostrando  un uso responsable y adecuado de los dispositivos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779722271303-c77w4twrs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>TAREAS Y CRITERIOS DE EVALUACIÓN</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>TAREAS Y CRITERIOS DE EVALUACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779722271303-c77w4twrs</odePageId>
+      <odeBlockId>block-1779722285276-1cah51sk8</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779722271303-c77w4twrs</odePageId>
+          <odeBlockId>block-1779722285276-1cah51sk8</odeBlockId>
+          <odeIdeviceId>idevice-1779722285274-idexoecfb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente cuadro se presenta la estructura organizativa de nuestra Situación de Aprendizaje. En él se puede observar de manera clara cómo cada tarea propuesta responde a unos criterios de evaluación específicos, detallando además el tipo de agrupamiento (gran grupo, pequeño grupo o trabajo individual), el tiempo previsto para su desarrollo y las herramientas que utilizarán los niños y niñas.</p>
+<p>Es fundamental destacar que, al dirigirnos a un aula de 4 años, la rigidez no tiene cabida. El tiempo en Educación Infantil es siempre relativo y está supeditado al principio de globalización y significatividad. Por tanto, cualquier aspecto aquí recogido se adaptará con total flexibilidad, priorizando siempre el bienestar, la motivación y el ritmo orgánico del alumnado en el aula.<br /></p>
+<p><a href="https://docs.google.com/document/d/1-Ron1HpUpjCpUJR_BMu_PBWilg8FurFiHQQmgk9F_dQ/edit?usp=sharing" title="">  TAREAS Y CRITERIOS DE EVALUACIÓN</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779722285274-idexoecfb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente cuadro se presenta la estructura organizativa de nuestra Situación de Aprendizaje. En él se puede observar de manera clara cómo cada tarea propuesta responde a unos criterios de evaluación específicos, detallando además el tipo de agrupamiento (gran grupo, pequeño grupo o trabajo individual), el tiempo previsto para su desarrollo y las herramientas que utilizarán los niños y niñas.</p>\n<p>Es fundamental destacar que, al dirigirnos a un aula de 4 años, la rigidez no tiene cabida. El tiempo en Educación Infantil es siempre relativo y está supeditado al principio de globalización y significatividad. Por tanto, cualquier aspecto aquí recogido se adaptará con total flexibilidad, priorizando siempre el bienestar, la motivación y el ritmo orgánico del alumnado en el aula.<br /></p>\n<p><a href=\"https://docs.google.com/document/d/1-Ron1HpUpjCpUJR_BMu_PBWilg8FurFiHQQmgk9F_dQ/edit?usp=sharing\" title=\"\">  TAREAS Y CRITERIOS DE EVALUACIÓN</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779732934552-g2hdu9ecg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779732934552-g2hdu9ecg</odePageId>
+      <odeBlockId>block-1779732942881-czbmu97s4</odeBlockId>
+      <blockName>Enciclopedia digital</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779732934552-g2hdu9ecg</odePageId>
+          <odeBlockId>block-1779732942881-czbmu97s4</odeBlockId>
+          <odeIdeviceId>idevice-1779732942880-mvvym1ow6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El producto final de este proyecto consistirá en el diseño y desarrollo de una enciclopedia digital interactiva centrada en la biodiversidad y riqueza del fondo marino del Parque Natural de Cabo de Gata. Para su elaboración se utilizará la plataforma Genially, aprovechando su potencial multimedia para ofrecer una experiencia de usuario dinámica, intuitiva y sumamente visual. A través de infografías interactivas, mapas de inmersión y fichas detalladas de la flora y fauna locales (como las praderas de Posidonia oceánica y sus especies asociadas), el recurso se constituirá como una herramienta divulgativa y educativa de libre acceso, rigurosa en su contenido y atractiva en su formato.</p>
+<p><a href="https://view.genially.com/6a149290fbec1b7d376fc111" title="Nuestro Producto Final">https://view.genially.com/6a149290fbec1b7d376fc111</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779732942880-mvvym1ow6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El producto final de este proyecto consistirá en el diseño y desarrollo de una enciclopedia digital interactiva centrada en la biodiversidad y riqueza del fondo marino del Parque Natural de Cabo de Gata. Para su elaboración se utilizará la plataforma Genially, aprovechando su potencial multimedia para ofrecer una experiencia de usuario dinámica, intuitiva y sumamente visual. A través de infografías interactivas, mapas de inmersión y fichas detalladas de la flora y fauna locales (como las praderas de Posidonia oceánica y sus especies asociadas), el recurso se constituirá como una herramienta divulgativa y educativa de libre acceso, rigurosa en su contenido y atractiva en su formato.</p>\n<p><a href=\"https://view.genially.com/6a149290fbec1b7d376fc111\" title=\"Nuestro Producto Final\">https://view.genially.com/6a149290fbec1b7d376fc111</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplc6buw-zw7mz7xfd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Evaluación de la Situación de Aprendizaje</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación de la Situación de Aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación de la Situación de Aprendizaje</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplc6buw-zw7mz7xfd</odePageId>
+      <odeBlockId>block-1779721812699-84lvyki64</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplc6buw-zw7mz7xfd</odePageId>
+          <odeBlockId>block-1779721812699-84lvyki64</odeBlockId>
+          <odeIdeviceId>idevice-1779721812698-x42j9bs0w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La siguiente rúbrica describe los criterios a evaluar para el tema de animales marinos, con el objetivo de promover el<br />aprendizaje sobre el medio ambiente. La rúbrica está diseñada para el alumnado de 4 años.</p>
+<p><a href="https://docs.google.com/document/d/1O96F2v0DftOoq3mzWfVPj5ylJUyFhVyGxKjGV8G7IyM/edit?usp=sharing" title="">Rúbrica SDA MUNDO MARINO EN EL PARQUE NATURAL DE CABO DE GATA</a></p>
+<p>Además añadiremos la herramienta para evaluación gamificada; <a href="https://www.plickers.com/marpaton/SDA-MUNDO-MARINO-89289" title="">https://www.plickers.com/marpaton/SDA-MUNDO-MARINO-89289</a></p>
+<p>He realizado esta selección de herramientas porque por un lado disponemos de unas herramienta de evaluación cualitativa y detallada (rúbrica)  y por otro disponemos  de una forma de evaluación formativa inmediata y lúdica (Plickers). Esta mezcla suele funcionar de maravilla porque la rúbrica da rigor a la observación, mientras que Plickers mantiene la motivación del alumnado. </p>
+<p><br />¿Cuándo llevaremos a cabo la evaluación?</p>
+<p>La rúbrica es un instrumento tan versátil que su uso no se limita a un único momento; de hecho, su mayor potencia reside en acompañar todo el proceso de aprendizaje.Evaluar en Educación Infantil con una rúbrica tiene un matiz muy especial: la rúbrica no es para que la lea el niño, sino para que el docente registre  su desarrollo de forma objetiva.</p>
+<p>En esta etapa, la evaluación es continua, formativa y, sobre todo, globalizadora. La rúbrica nos  ayuda a que esa observación no sea subjetiva ("me parece que sabe..."), sino basada en hitos del desarrollo.</p>
+<p>En esta etapa, la rúbrica se usa principalmente como registro de observación sistemática:</p>
+<p>Durante los rincones: Mientras juegan en el rincón del mar o de plástica, observamos  y anotamos en qué nivel se encuentra cada niño.<br />En la asamblea: Al realizar preguntas abiertas sobre el proyecto.<br />Al finalizar la SDA: Si han hecho un "acuario en una caja", evalúas la motricidad fina y la creatividad.</p>
+<p>Por otro lado,utilizar Plickers en Educación Infantil es un reto divertido, pero requiere una logística diferente a la de Primaria. En esta etapa, el niño no ve la tecnología como una "herramienta de examen", sino como un juego.</p>
+<p>En esta situación de aprendizaje tendremos la oportunidad de utilizar este recurso, al final </p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779721812698-x42j9bs0w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La siguiente rúbrica describe los criterios a evaluar para el tema de animales marinos, con el objetivo de promover el<br />aprendizaje sobre el medio ambiente. La rúbrica está diseñada para el alumnado de 4 años.</p>\n<p><a href=\"https://docs.google.com/document/d/1O96F2v0DftOoq3mzWfVPj5ylJUyFhVyGxKjGV8G7IyM/edit?usp=sharing\" title=\"\">Rúbrica SDA MUNDO MARINO EN EL PARQUE NATURAL DE CABO DE GATA</a></p>\n<p>Además añadiremos la herramienta para evaluación gamificada; <a href=\"https://www.plickers.com/marpaton/SDA-MUNDO-MARINO-89289\" title=\"\">https://www.plickers.com/marpaton/SDA-MUNDO-MARINO-89289</a></p>\n<p>He realizado esta selección de herramientas porque por un lado disponemos de unas herramienta de evaluación cualitativa y detallada (rúbrica)  y por otro disponemos  de una forma de evaluación formativa inmediata y lúdica (Plickers). Esta mezcla suele funcionar de maravilla porque la rúbrica da rigor a la observación, mientras que Plickers mantiene la motivación del alumnado. </p>\n<p><br />¿Cuándo llevaremos a cabo la evaluación?</p>\n<p>La rúbrica es un instrumento tan versátil que su uso no se limita a un único momento; de hecho, su mayor potencia reside en acompañar todo el proceso de aprendizaje.Evaluar en Educación Infantil con una rúbrica tiene un matiz muy especial: la rúbrica no es para que la lea el niño, sino para que el docente registre  su desarrollo de forma objetiva.</p>\n<p>En esta etapa, la evaluación es continua, formativa y, sobre todo, globalizadora. La rúbrica nos  ayuda a que esa observación no sea subjetiva (\"me parece que sabe...\"), sino basada en hitos del desarrollo.</p>\n<p>En esta etapa, la rúbrica se usa principalmente como registro de observación sistemática:</p>\n<p>Durante los rincones: Mientras juegan en el rincón del mar o de plástica, observamos  y anotamos en qué nivel se encuentra cada niño.<br />En la asamblea: Al realizar preguntas abiertas sobre el proyecto.<br />Al finalizar la SDA: Si han hecho un \"acuario en una caja\", evalúas la motricidad fina y la creatividad.</p>\n<p>Por otro lado,utilizar Plickers en Educación Infantil es un reto divertido, pero requiere una logística diferente a la de Primaria. En esta etapa, el niño no ve la tecnología como una \"herramienta de examen\", sino como un juego.</p>\n<p>En esta situación de aprendizaje tendremos la oportunidad de utilizar este recurso, al final </p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mplc6buw-zumlk7j4q</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Anexos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Recursos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mplc6buw-zumlk7j4q</odePageId>
+      <odeBlockId>block-1779728784986-01v991x1r</odeBlockId>
+      <blockName>Enlaces y documentos:</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mplc6buw-zumlk7j4q</odePageId>
+          <odeBlockId>block-1779728784986-01v991x1r</odeBlockId>
+          <odeIdeviceId>idevice-1779728784985-nf3xafbre</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Dentro de este apartado encontraréis todos los recursos que hemos utilizado para cada actividad y de dónde los hemos obtenido:</p>
+<p>Introducción:</p>
+<ul>
+<li title="">Presentación elaborada con canva y sus plantillas:<a href="https://canva.link/ppwlqvai31pglvp">https://canva.link/ppwlqvai31pglvp</a></li>
+</ul>
+<p> TAREA 1 : Actividad de presentación/Motivación: EL TESORO <br /></p>
+<p>A)Encontramos en el aula un mapa del tesoro: Encontramos en el aula un cofre con un pergamino que nos cuenta la historia del Pirata de Cabo de Gata y su barco hundido. Recurso elaborado con Canva</p>
+<p><br /></p>
+<p>B) Visionado del video del barco hundido en Cabo de gata:  El barco hundido más famoso y emblemático en el Cabo de Gata (Almería) es el Vapor Arna, conocido popularmente como "El Vapor de Cabo de Gata. <a href="https://youtu.be/X-shXQA7A2Y?si=Xip3sps-02lDJUdJ" title="video you tube">https://youtu.be/X-shXQA7A2Y?si=Xip3sps-02lDJUdJ</a></p>
+<p><br /></p>
+<p>TAREA 2 : Presentamos las pistas que tenemos que resolver.<br />Dentro del cofre encontramos las pistas y pruebas por resolver.</p>
+<p>TAREA 3 : Visita al acuario<br />Realizamos una visita al acuario del Roquetas de mar, dónde hay específicamente una zona dedicada a las especies de cabo de gata.</p>
+<p>A)Actividades previas: Elaboración de plantilla para recogida de información. <a href="https://docs.google.com/document/d/1RE5mTsF1meY8Aeygewqodqmfe9lzWWgzIW6PX8QvPLw/edit?usp=sharing" title="GOOGLE DOCUMENTOS">https://docs.google.com/document/d/1RE5mTsF1meY8Aeygewqodqmfe9lzWWgzIW6PX8QvPLw/edit?usp=sharing</a></p>
+<p>B)Compartimos la información: Puesta en común de todas la información recogida y lo aprendido durante la visita.</p>
+<p>TAREA 4: Ampliamos información. Búsqueda de información y características de todas las especies vistas en el acuario sobre el fondo marino en cabo de gata. VIDEO DE YOU TUBE </p>
+<p><a href="https://youtu.be/wuZFa1zzXHM?si=lg63pyZVJnXvIfog" title="">https://youtu.be/wuZFa1zzXHM?si=lg63pyZVJnXvIfog :</a></p>
+<p>TAREA 5: Viaje submarino  Bee Bot </p>
+<p><br />A)BEE BOT EN NUESTRO RINCÓN CIBER RATONCITOS: Ambientando la actividad en el mundo submarino, emplearemos las tarjetas de robótica y el panel para realizar distintos itinerarios.</p>
+<p><a href="https://apprendiendoconrobotica.blogspot.com/p/actividades-con-bee-bot.html" title="">https://apprendiendoconrobotica.blogspot.com/p/actividades-con-bee-bot.html</a></p>
+<p> <br />TAREA 6  : Elaboraremos en Canva una presentación con las especies más significativas de cabo de gata y sus características </p>
+<p><br title="" />A) Búsqueda de información : Elaboración de plantilla para recogida de información. <a href="https://apprendiendoconrobotica.blogspot.com/p/actividades-con-bee-bot.html">https://apprendiendoconrobotica.blogspot.com/p/actividades-con-bee-bot.html</a></p>
+<p>B)Realización de las diapositivas en genially : Puesta en común de todas la información recogida y elaboración de la presentación.</p>
+<p>TAREA 7 :Exposición de nuestra enciclopedia digital.<br />Exposición a la clase por pequeños grupos del trabajo realizado y las especies encontradas.</p>
+<p><a href="https://view.genially.com/6a149290fbec1b7d376fc111" title="">https://view.genially.com/6a149290fbec1b7d376fc111</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779728784985-nf3xafbre","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Dentro de este apartado encontraréis todos los recursos que hemos utilizado para cada actividad y de dónde los hemos obtenido:</p>\n<p>Introducción:</p>\n<ul>\n<li title=\"\">Presentación elaborada con canva y sus plantillas:<a href=\"https://canva.link/ppwlqvai31pglvp\">https://canva.link/ppwlqvai31pglvp</a></li>\n</ul>\n<p> TAREA 1 : Actividad de presentación/Motivación: EL TESORO <br /></p>\n<p>A)Encontramos en el aula un mapa del tesoro: Encontramos en el aula un cofre con un pergamino que nos cuenta la historia del Pirata de Cabo de Gata y su barco hundido. Recurso elaborado con Canva</p>\n<p><br /></p>\n<p>B) Visionado del video del barco hundido en Cabo de gata:  El barco hundido más famoso y emblemático en el Cabo de Gata (Almería) es el Vapor Arna, conocido popularmente como \"El Vapor de Cabo de Gata. <a href=\"https://youtu.be/X-shXQA7A2Y?si=Xip3sps-02lDJUdJ\" title=\"video you tube\">https://youtu.be/X-shXQA7A2Y?si=Xip3sps-02lDJUdJ</a></p>\n<p><br /></p>\n<p>TAREA 2 : Presentamos las pistas que tenemos que resolver.<br />Dentro del cofre encontramos las pistas y pruebas por resolver.</p>\n<p>TAREA 3 : Visita al acuario<br />Realizamos una visita al acuario del Roquetas de mar, dónde hay específicamente una zona dedicada a las especies de cabo de gata.</p>\n<p>A)Actividades previas: Elaboración de plantilla para recogida de información. <a href=\"https://docs.google.com/document/d/1RE5mTsF1meY8Aeygewqodqmfe9lzWWgzIW6PX8QvPLw/edit?usp=sharing\" title=\"GOOGLE DOCUMENTOS\">https://docs.google.com/document/d/1RE5mTsF1meY8Aeygewqodqmfe9lzWWgzIW6PX8QvPLw/edit?usp=sharing</a></p>\n<p>B)Compartimos la información: Puesta en común de todas la información recogida y lo aprendido durante la visita.</p>\n<p>TAREA 4: Ampliamos información. Búsqueda de información y características de todas las especies vistas en el acuario sobre el fondo marino en cabo de gata. VIDEO DE YOU TUBE </p>\n<p><a href=\"https://youtu.be/wuZFa1zzXHM?si=lg63pyZVJnXvIfog\" title=\"\">https://youtu.be/wuZFa1zzXHM?si=lg63pyZVJnXvIfog :</a></p>\n<p>TAREA 5: Viaje submarino  Bee Bot </p>\n<p><br />A)BEE BOT EN NUESTRO RINCÓN CIBER RATONCITOS: Ambientando la actividad en el mundo submarino, emplearemos las tarjetas de robótica y el panel para realizar distintos itinerarios.</p>\n<p><a href=\"https://apprendiendoconrobotica.blogspot.com/p/actividades-con-bee-bot.html\" title=\"\">https://apprendiendoconrobotica.blogspot.com/p/actividades-con-bee-bot.html</a></p>\n<p> <br />TAREA 6  : Elaboraremos en Canva una presentación con las especies más significativas de cabo de gata y sus características </p>\n<p><br title=\"\" />A) Búsqueda de información : Elaboración de plantilla para recogida de información. <a href=\"https://apprendiendoconrobotica.blogspot.com/p/actividades-con-bee-bot.html\">https://apprendiendoconrobotica.blogspot.com/p/actividades-con-bee-bot.html</a></p>\n<p>B)Realización de las diapositivas en genially : Puesta en común de todas la información recogida y elaboración de la presentación.</p>\n<p>TAREA 7 :Exposición de nuestra enciclopedia digital.<br />Exposición a la clase por pequeños grupos del trabajo realizado y las especies encontradas.</p>\n<p><a href=\"https://view.genially.com/6a149290fbec1b7d376fc111\" title=\"\">https://view.genially.com/6a149290fbec1b7d376fc111</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779732686154-wapjzywj2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Consejos sobre protección de datos y derechos digitales</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Consejos sobre protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Consejos sobre protección de datos y derechos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779732686154-wapjzywj2</odePageId>
+      <odeBlockId>block-1779732692404-927zsnv4s</odeBlockId>
+      <blockName>Infografía sobre precauciones en la red</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779732686154-wapjzywj2</odePageId>
+          <odeBlockId>block-1779732692404-927zsnv4s</odeBlockId>
+          <odeIdeviceId>idevice-1779732692403-llclzti5j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La seguridad en la red no depende de programas complejos, sino de adoptar pequeños hábitos cotidianos. Para ayudarte a proteger tu privacidad y la de los tuyos, hemos preparado la siguiente infografía donde recopilamos las precauciones esenciales que debes tener en cuenta al navegar.</p>
+<p><a href="https://canva.link/7s1v9s54ouufx9a" title="">https://canva.link/7s1v9s54ouufx9a</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779732692403-llclzti5j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La seguridad en la red no depende de programas complejos, sino de adoptar pequeños hábitos cotidianos. Para ayudarte a proteger tu privacidad y la de los tuyos, hemos preparado la siguiente infografía donde recopilamos las precauciones esenciales que debes tener en cuenta al navegar.</p>\n<p><a href=\"https://canva.link/7s1v9s54ouufx9a\" title=\"\">https://canva.link/7s1v9s54ouufx9a</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779733465017-v1s2sef6a</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Herramientas</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779733465017-v1s2sef6a</odePageId>
+      <odeBlockId>block-1779733525522-khimc4509</odeBlockId>
+      <blockName>ORGANIZACIÓN DE CONTENIDOS</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779733465017-v1s2sef6a</odePageId>
+          <odeBlockId>block-1779733525522-khimc4509</odeBlockId>
+          <odeIdeviceId>idevice-1779733525521-k4uraq5li</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Con el objetivo de optimizar la gestión de la información y fomentar un entorno de aprendizaje más dinámico y actualizado, se han incorporado dos herramientas clave de curación de contenidos a este SDA. Estas utilidades no solo permitirán filtrar, organizar y almacenar de manera eficiente los recursos digitales más relevantes del sector, sino que también facilitarán la creación de repositorios de conocimiento personalizados. </p>
+<ul>
+<li style="text-align: left;"><a href="https://padlet.com/marpaton_1986/sda-el-mundo-marino-w3qg5digl0aidhlj" title="">https://padlet.com/marpaton_1986/sda-el-mundo-marino-w3qg5digl0aidhlj</a></li>
+<li style="text-align: left;" title=""><a href="https://www.symbaloo.com/mix/es-noticias-mjs2">https://www.symbaloo.com/mix/es-noticias-mjs2</a></li>
+</ul>
+<p style="text-align: left;"></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779733525521-k4uraq5li","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Con el objetivo de optimizar la gestión de la información y fomentar un entorno de aprendizaje más dinámico y actualizado, se han incorporado dos herramientas clave de curación de contenidos a este SDA. Estas utilidades no solo permitirán filtrar, organizar y almacenar de manera eficiente los recursos digitales más relevantes del sector, sino que también facilitarán la creación de repositorios de conocimiento personalizados. </p>\n<ul>\n<li style=\"text-align: left;\"><a href=\"https://padlet.com/marpaton_1986/sda-el-mundo-marino-w3qg5digl0aidhlj\" title=\"\">https://padlet.com/marpaton_1986/sda-el-mundo-marino-w3qg5digl0aidhlj</a></li>\n<li style=\"text-align: left;\" title=\"\"><a href=\"https://www.symbaloo.com/mix/es-noticias-mjs2\">https://www.symbaloo.com/mix/es-noticias-mjs2</a></li>\n</ul>\n<p style=\"text-align: left;\"></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779741302715-7h5vm36xk</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos y descarga</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779741302715-7h5vm36xk</odePageId>
+      <odeBlockId>block-1779741306299-ctm3orbzr</odeBlockId>
+      <blockName>DESCARGA</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779741302715-7h5vm36xk</odePageId>
+          <odeBlockId>block-1779741306299-ctm3orbzr</odeBlockId>
+          <odeIdeviceId>idevice-1779741306297-s3q5bdjtm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Gracias por utilizar este recurso educativo! A continuación, se detalla la información sobre la autoría, los derechos de uso y el acceso al archivo fuente para su reutilización o adaptación.</p>
+<p>Autoría y Descripción</p>
+<p><br />Autoría: María del Mar Patón Esteban <br />Descripción del recurso: Este material didáctico ha sido diseñado con el objetivo de desarrollar la SDA El MUNDO MARINO EN EL PARQUE NATURAL DE CABO DE GATA , para Educación Infantil.<br />Fecha de creación: Mayo de 2026</p>
+<p><br /></p>
+<p><br />Licencia de Uso</p>
+<p><br />Este recurso educativo abierto (REA) se publica bajo la siguiente licencia:</p>
+<p>Licencia:  <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es" title="">Creative Commons 4.0</a></p>
+<p>Si deseas modificar, adaptar o mejorar este recurso, puedes descargarlo en su formato original editable haciendo clic en el siguiente botón:</p>
+<p>                                    <a href="https://drive.google.com/file/d/1Byz09Wq6WVJO2PvQSiJNZz509ClBiWtx/view?usp=sharing" title="">SDA MUNDO MARINO</a>                    </p>
+<p>Este contenido fue creado con <a href="https://exelearning.net/" title="">exelearning</a> el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779741306297-s3q5bdjtm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Gracias por utilizar este recurso educativo! A continuación, se detalla la información sobre la autoría, los derechos de uso y el acceso al archivo fuente para su reutilización o adaptación.</p>\n<p>Autoría y Descripción</p>\n<p><br />Autoría: María del Mar Patón Esteban <br />Descripción del recurso: Este material didáctico ha sido diseñado con el objetivo de desarrollar la SDA El MUNDO MARINO EN EL PARQUE NATURAL DE CABO DE GATA , para Educación Infantil.<br />Fecha de creación: Mayo de 2026</p>\n<p><br /></p>\n<p><br />Licencia de Uso</p>\n<p><br />Este recurso educativo abierto (REA) se publica bajo la siguiente licencia:</p>\n<p>Licencia:  <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.es\" title=\"\">Creative Commons 4.0</a></p>\n<p>Si deseas modificar, adaptar o mejorar este recurso, puedes descargarlo en su formato original editable haciendo clic en el siguiente botón:</p>\n<p>                                    <a href=\"https://drive.google.com/file/d/1Byz09Wq6WVJO2PvQSiJNZz509ClBiWtx/view?usp=sharing\" title=\"\">SDA MUNDO MARINO</a>                    </p>\n<p>Este contenido fue creado con <a href=\"https://exelearning.net/\" title=\"\">exelearning</a> el editor libre y de fuente abierta diseñado para crear recursos educativos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
